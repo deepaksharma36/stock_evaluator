@@ -1,4 +1,4 @@
-#Stocks Analysis
+# Stock Evaluator
 
 ## Apply Simple DCF model
 
